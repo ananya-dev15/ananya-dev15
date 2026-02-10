@@ -44,8 +44,8 @@ AI powered distraction monitoring & productivity improvement system.
 ---
 
 ## 🤝 Connect With Me
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: (www.linkedin.com/in/ananya-srivastava-884820290)
+- Email: ananya1111118@gmail.com
 
 ---
 
