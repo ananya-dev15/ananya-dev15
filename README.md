@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ananya Srivastava</h1>
+<h3 align="center">Full Stack Developer | Problem Solver | Building Tech for Impact</h3>
 
-<!--
-**ananya-dev15/ananya-dev15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 Passionate about creating real-world solutions using technology.  
+💻 Currently exploring Full Stack Development & AI/ML.  
+🚀 Love building products that create social impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Database: MongoDB
+- Languages: C++, JavaScript
+- Tools: Git, GitHub, Postman, VS Code, Requestly
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 NaariSecure
+Women safety platform with SOS alerts, live tracking, guardians & risk monitoring.
+
+### 📚 StudyBuddy
+AI powered distraction monitoring & productivity improvement system.
+
+
+---
+
+## 📈 Currently Learning
+- Data Structures & Algorithms  
+- Advanced Backend  
+- AI/ML for real-world systems
+
+---
+
+## 🎯 2026 Goals
+✔ Strong internships  
+✔ Crack top product-based placements  
+✔ Build impactful scalable products
+
+---
+
+## 🤝 Connect With Me
+- LinkedIn: (add link)
+- Email: (add email)
+
+---
+
+⭐ From [ananya-dev15](https://github.com/ananya-dev15)
